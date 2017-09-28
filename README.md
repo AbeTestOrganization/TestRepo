@@ -1,2 +1,2 @@
 # TestRepo
-For funzies
+For cereal
